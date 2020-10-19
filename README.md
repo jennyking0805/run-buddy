@@ -13,4 +13,4 @@ https://jennyking0805.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Jenny
 
-### (c) 2019 Run Buddy, Inc
+### "(c)" 2019 Run Buddy, Inc
